@@ -5,7 +5,7 @@ This folder contains my SQL exercises completed during my Codefinity learning jo
 
 I use this space to organize my course-based SQL practice and track my progress step by step.
 
-## What I practice here
+**## What I practice here
 
 * Basic SQL queries
 * `SELECT` statements
@@ -25,6 +25,7 @@ This is part of my broader learning path toward QA, databases, and technical ski
 * [x] SQL Fundamentals — completed
 * [ ] SQL Intermediate — in progres
 * [ ] SQL from Zero to Hero — planned
+* [ ] Data Analyst with SQL - planned
 
 ## Status
 
