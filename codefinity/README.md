@@ -5,14 +5,16 @@ This folder contains my SQL exercises completed during my Codefinity learning jo
 
 I use this space to organize my course-based SQL practice and track my progress step by step.
 
-**## What I practice here
+## What I practice here
 
-* Basic SQL queries
-* `SELECT` statements
-* Filtering data with `WHERE`
-* Sorting results with `ORDER BY`
-* Working with tables
-* Simple database exercises
+- Basic and intermediate SQL queries
+- Data retrieval with `SELECT`
+- Filtering and sorting data with `WHERE` and `ORDER BY`
+- Comparison and logical operators
+- Aggregate functions such as `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`
+- Grouping data with `GROUP BY` and `HAVING`
+- Working with tables and query results
+- Course-based SQL exercises from Codefinity
 
 ## Purpose
 
