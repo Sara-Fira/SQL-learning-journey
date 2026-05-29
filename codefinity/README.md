@@ -22,7 +22,7 @@ This is part of my broader learning path toward QA, databases, and technical ski
 
 ## Completed courses
 
-* [v] SQL Fundamentals — completed
+* [x] SQL Fundamentals — completed
 * [ ] SQL Intermediate — in progres
 * [ ] SQL from Zero to Hero — planned
 
