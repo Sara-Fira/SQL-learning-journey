@@ -1,6 +1,5 @@
 # Codefinity SQL Practice
 
-![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow)
 
 This folder contains my SQL exercises completed during my Codefinity learning journey.
 
